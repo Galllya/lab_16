@@ -1,0 +1,30 @@
+C:\Users\smois\source\repos\Cur\bin\Debug\Cur.exe.config
+C:\Users\smois\source\repos\Cur\bin\Debug\Cur.exe
+C:\Users\smois\source\repos\Cur\bin\Debug\Cur.pdb
+C:\Users\smois\source\repos\Cur\obj\Debug\Cur.csprojAssemblyReference.cache
+C:\Users\smois\source\repos\Cur\obj\Debug\Cur.Form1.resources
+C:\Users\smois\source\repos\Cur\obj\Debug\Cur.Properties.Resources.resources
+C:\Users\smois\source\repos\Cur\obj\Debug\Cur.csproj.GenerateResource.cache
+C:\Users\smois\source\repos\Cur\obj\Debug\Cur.csproj.CoreCompileInputs.cache
+C:\Users\smois\source\repos\Cur\obj\Debug\Cur.exe
+C:\Users\smois\source\repos\Cur\obj\Debug\Cur.pdb
+C:\Users\bolga\OneDrive\Рабочий стол\имит_4\Cur\Cur\bin\Debug\Cur.exe.config
+C:\Users\bolga\OneDrive\Рабочий стол\имит_4\Cur\Cur\bin\Debug\Cur.exe
+C:\Users\bolga\OneDrive\Рабочий стол\имит_4\Cur\Cur\bin\Debug\Cur.pdb
+C:\Users\bolga\OneDrive\Рабочий стол\имит_4\Cur\Cur\obj\Debug\Cur.csprojAssemblyReference.cache
+C:\Users\bolga\OneDrive\Рабочий стол\имит_4\Cur\Cur\obj\Debug\Cur.Form1.resources
+C:\Users\bolga\OneDrive\Рабочий стол\имит_4\Cur\Cur\obj\Debug\Cur.Properties.Resources.resources
+C:\Users\bolga\OneDrive\Рабочий стол\имит_4\Cur\Cur\obj\Debug\Cur.csproj.GenerateResource.cache
+C:\Users\bolga\OneDrive\Рабочий стол\имит_4\Cur\Cur\obj\Debug\Cur.csproj.CoreCompileInputs.cache
+C:\Users\bolga\OneDrive\Рабочий стол\имит_4\Cur\Cur\obj\Debug\Cur.exe
+C:\Users\bolga\OneDrive\Рабочий стол\имит_4\Cur\Cur\obj\Debug\Cur.pdb
+C:\Users\bolga\OneDrive\Рабочий стол\Money-master\Cur\bin\Debug\Cur.exe.config
+C:\Users\bolga\OneDrive\Рабочий стол\Money-master\Cur\bin\Debug\Cur.exe
+C:\Users\bolga\OneDrive\Рабочий стол\Money-master\Cur\bin\Debug\Cur.pdb
+C:\Users\bolga\OneDrive\Рабочий стол\Money-master\Cur\obj\Debug\Cur.csprojAssemblyReference.cache
+C:\Users\bolga\OneDrive\Рабочий стол\Money-master\Cur\obj\Debug\Cur.Form1.resources
+C:\Users\bolga\OneDrive\Рабочий стол\Money-master\Cur\obj\Debug\Cur.Properties.Resources.resources
+C:\Users\bolga\OneDrive\Рабочий стол\Money-master\Cur\obj\Debug\Cur.csproj.GenerateResource.cache
+C:\Users\bolga\OneDrive\Рабочий стол\Money-master\Cur\obj\Debug\Cur.csproj.CoreCompileInputs.cache
+C:\Users\bolga\OneDrive\Рабочий стол\Money-master\Cur\obj\Debug\Cur.exe
+C:\Users\bolga\OneDrive\Рабочий стол\Money-master\Cur\obj\Debug\Cur.pdb
